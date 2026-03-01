@@ -50,8 +50,6 @@ int main() {
             << std::hex << std::uppercase
             << std::setw(4) << std::setfill('0')
             << result << std::endl;
-
-
-
+    
     return 0;
 }
